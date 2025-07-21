@@ -1,0 +1,133 @@
+.register{
+width: 1512px;
+/* height: 930; */
+padding-top: 70px;
+padding-right: 376px;
+padding-bottom: 70px;
+padding-left: 376px;
+gap: 40px;
+/* angle: 0 deg;
+opacity: 1; */
+background-color: #F8F8F8;
+}
+
+.register__title{
+font-family: Hiragino Kaku Gothic Pro;
+font-weight: 600px;
+font-style: W6;
+font-size: 32px;
+/* leading-trim: NONE; */
+line-height: 100%;
+letter-spacing: 0%;
+color: #333333;
+}
+
+.register__form{
+width: 760px;
+/* height: 702; */
+gap: 30px;
+/* angle: 0 deg;
+opacity: 1; */
+}
+
+.register__form-title{
+font-family: Hiragino Kaku Gothic Pro;
+font-weight: 300px;
+font-style: W3;
+font-size: 16px;
+/* leading-trim: NONE; */
+line-height: 100%;
+letter-spacing: 0%;
+color: #4B4B4B;
+}
+
+.register__form-text{
+width: 760px;
+height: 43px;
+gap: 10px;
+/* angle: 0 deg;
+opacity: 1; */
+}
+
+.register__form-textarea{
+width: 760px;
+/* height: 160; */
+gap: 10px;
+/* angle: 0 deg;
+opacity: 1; */
+}
+
+.span__required{
+width: 34px;
+height: 18px;
+padding-right: 5px;
+padding-left: 5px;
+gap: 10px;
+/* angle: 0 deg;
+opacity: 1; */
+background-color: #FD0707;
+
+font-family: Hiragino Kaku Gothic Pro;
+font-weight: 300px;
+font-style: W3;
+font-size: 12px;
+/* leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%; */
+color: #FFFFFF;
+}
+
+.span__choice{
+font-family: Hiragino Kaku Gothic Pro;
+font-weight: 300;
+font-style: W3;
+font-size: 12px;
+/* leading-trim: NONE; */
+line-height: 100%;
+letter-spacing: 0%;
+color: #FD0707;
+}
+
+.register__form-cancel{
+width: 200px;
+height: 50px;
+padding-top: 13px;
+padding-right: 10px;
+padding-bottom: 13px;
+padding-left: 10px;
+gap: 10px;
+/* angle: 0 deg;
+opacity: 1; */
+border-radius: 5px;
+background-color: #E0DFDE;
+
+box-shadow: 0px 4px 10px 0px #0000001A;
+}
+
+.register__form-save{
+width: 200;
+height: 50;
+padding-top: 13px;
+padding-right: 10px;
+padding-bottom: 13px;
+padding-left: 10px;
+gap: 10px;
+/* angle: 0 deg;
+opacity: 1; */
+border-radius: 5px;
+background-color: #F5C800;
+
+box-shadow: 0px 4px 10px 0px #0000001A;
+}
+
+.form__error{
+font-family: Hiragino Kaku Gothic Pro;
+font-weight: 300;
+font-style: W3;
+font-size: 14px;
+/* leading-trim: NONE; */
+line-height: 100%;
+letter-spacing: 0%;
+color: #FD0707;
+}
+
